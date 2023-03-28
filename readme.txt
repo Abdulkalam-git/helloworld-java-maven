@@ -1,9 +1,8 @@
+
 This is my demo for onmob
-ff
-fffffdssds
+?ff
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
-# this isddd a fix og sdfljflld fjldsfjdsjfkdl;sdasdasdasdfdsfsdfsdfserewrwe
-# ========================NEXUS==============================
+========================NEXUS==============================
 
 <distributionManagement>
 	<repository>
@@ -34,7 +33,6 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 		<name>Internal Releases</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
 	</snapshotRepository>
-
 </distributionManagement>
 
 =====================SETTING.XML=================================
